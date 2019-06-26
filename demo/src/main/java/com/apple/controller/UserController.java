@@ -8,10 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class UserController {
 
-    @RequestMapping("/index")
-    public String appleUser(){
 
-        return "index//";
     }
 
 }
