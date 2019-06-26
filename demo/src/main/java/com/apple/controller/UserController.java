@@ -10,7 +10,7 @@ public class UserController {
 
     @RequestMapping("/index")
     public String appleUser(){
-
+        System.out.print("xiaozhu");
         return "index//";
     }
 
